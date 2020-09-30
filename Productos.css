@@ -46,15 +46,205 @@ body{
         left: 350px;
         font-size: 15px;
       }
-    section>img{
-      width: 3px;
+.producto1>img{
+  width: 300px;
+  margin-top: 3em;
+  margin-left: 8em;
+  border-radius: 3em;
+  box-shadow: 8px 6px 5px cornflowerblue;
+}
+.producto1>h2{
+  margin-left:11.5em;
+  margin-top: -26em;
+  position: absolute;
+  font-size: 15px;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+.producto1>h1{
+margin-left: 12em;
+color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.producto1>nav>li{
+  position: absolute;
+  font-family: cursive;
+  margin-left: 5em;
+  color:purple;
+}
+
+.producto2>img{
+  width: 300px;
+  position: absolute;
+  margin-top: -30em;
+  margin-bottom: 0em;
+  margin-left: 37em;
+  border-radius: 3em;
+  box-shadow: 8px 6px 5px rgb(5, 172, 32);
+}
+.producto2>h2{
+  margin-left:43.5em;
+  margin-top: -35em;
+  position: absolute;
+  font-size: 15px;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+.producto2>h1{
+  margin-left: 37em;
+  margin-top: -12em;
+  position: absolute;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .producto2>nav>li{
+    position: absolute;
+    font-family: cursive;
+    margin-left: 39em;
+    color:purple;
+    margin-top: -11.5em;
+    margin-bottom: 0;
+  }
+
+  .producto3>img{
+    width: 300px;
+    position: absolute;
+    margin-top: -33em;
+    margin-bottom: 0em;
+    margin-left: 65em;
+    border-radius: 3em;
+    box-shadow: 8px 6px 5px rgb(180, 8, 74);
+  }
+
+  .producto3>h2{
+    margin-left:77em;
+    margin-top: -38em;
+    position: absolute;
+    font-size: 15px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
+
+    .producto3>h1{
+      margin-left: 61em;
+      margin-top: -20em;
+      position: absolute;
+      color: black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+      .producto3>nav>li{
+        position: absolute;
+        font-family: cursive;
+        margin-left: 65em;
+        color:purple;
+        margin-top: -20em;
+        margin-bottom: 0;
+      }
+
+      .producto4>img{
+        width: 400px;
+        position: absolute;
+        margin-top: -8em;
+        margin-bottom: 0em;
+        margin-left: 5em;
+        border-radius: 3em;
+        box-shadow: 8px 6px 5px rgb(210, 255, 12);
+      }
+      .producto4>h2{
+        margin-left:15em;
+        margin-top: -10em;
+        position: absolute;
+        font-size: 15px;
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        .producto4>h1{
+          margin-left: 12em;
+          margin-top: 10em;
+          position: absolute;
+          color: black;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          }
+          .producto4>nav>li{
+            position: absolute;
+            font-family: cursive;
+            margin-left: 8em;
+            color:purple;
+            margin-top: 14em;
+            margin-bottom: 0;
+          }
+        
+          .producto5>img{
+            width: 200px;
+            position: absolute;
+            margin-top: -27em;
+            margin-bottom: 0em;
+            margin-left: 45em;
+            border-radius: 3em;
+            box-shadow: 8px 6px 5px rgb(21, 2, 39);
+          }
+          .producto5>h2{
+            margin-left:51.5em;
+            margin-top: -31em;
+            position: absolute;
+            font-size: 15px;
+            color: black;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+            .producto5>h1{
+              margin-left: 42em;
+              margin-top: -7em;
+              position: absolute;
+              color: black;
+              font-family: Verdana, Geneva, Tahoma, sans-serif;
+              }
+              .producto5>nav>li{
+                position: absolute;
+                font-family: cursive;
+                margin-left: 40em;
+                color:purple;
+                margin-top: -5em;
+                margin-bottom: 0;
+              }
+              .producto6>img{
+                width: 280px;
+                position: absolute;
+                margin-top: -34em;
+                margin-bottom: 0em;
+                margin-left: 68em;
+                border-radius: 3em;
+                box-shadow: 8px 6px 5px rgb(218, 4, 4);
+              }
+              .producto6>h2{
+                margin-left:79em;
+                margin-top: -39em;
+                position: absolute;
+                font-size: 15px;
+                color: black;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                }
+
+                .producto6>h1{
+                  margin-left: 62.5em;
+                  margin-top: -12em;
+                  position: absolute;
+                  color: black;
+                  font-family: Verdana, Geneva, Tahoma, sans-serif;
+                  }
+                  .producto6>nav>li{
+                    position: absolute;
+                    font-family: cursive;
+                    margin-left: 70em;
+                    color:purple;
+                    margin-top: -11em;
+                    margin-bottom: 0;
+                  }
       footer{
         background-color: rgb(14, 14, 109);
         width: 100%;
         height: 10px;
         padding: 2em;
-        margin-top: 5%;
+        margin-top: 30%;
     
       }
       div>span{

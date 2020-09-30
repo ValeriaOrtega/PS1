@@ -75,8 +75,14 @@ section>div>h1{
   margin-top: 5em;
   margin-left: 3.5em;
 }
-.articulo1>span{
-  color: black;
+.articulo1>p{
+  color:black;
+  position: absolute;
+  float: right;
+  text-align: center;
+  margin-left: 30em;
+  margin-top: -13em;
+  font-family: cursive;
 }
 .articulo2>img{
   width: 400px;
@@ -84,11 +90,32 @@ section>div>h1{
   margin-top: 5em;
   margin-left: 3.5em;
 }
+
+.articulo2>p{
+  color:black;
+  position: absolute;
+  float: right;
+  text-align: center;
+  margin-left: 30em;
+  margin-top: -11em;
+  font-family: cursive;
+}
+
 .articulo3>img{
   width: 400px;
   border-radius: 3em;
   margin-top: 5em;
   margin-left: 3.5em;
+}
+
+.articulo3>p{
+  color:black;
+  position: absolute;
+  float: right;
+  text-align: center;
+  margin-left: 30em;
+  margin-top: -11em;
+  font-family: cursive;
 }
 
 
