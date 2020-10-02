@@ -84,6 +84,14 @@ section>div>h1{
   margin-top: -13em;
   font-family: cursive;
 }
+.articulo1>.ver{
+color: black;
+position: absolute;
+margin-top: 5em;
+margin-bottom: -18em;
+margin-left: 4em;
+font-family: cursive;
+}
 .articulo2>img{
   width: 400px;
   border-radius: 3em;
@@ -100,7 +108,15 @@ section>div>h1{
   margin-top: -11em;
   font-family: cursive;
 }
+.articulo2>.ver2{
+color: black;
+position: absolute;
+margin-top: 5em;
+margin-bottom: -35em;
+margin-left: 4em;
+font-family: cursive;
 
+  }
 .articulo3>img{
   width: 400px;
   border-radius: 3em;
@@ -117,7 +133,15 @@ section>div>h1{
   margin-top: -11em;
   font-family: cursive;
 }
-
+.articulo3>.ver3{
+  color: black;
+  position: absolute;
+  margin-top: 5em;
+  margin-bottom: -52.5em;
+  margin-left: 4em;
+  font-family: cursive;
+  
+    }
 
   footer{
     background-color: rgb(14, 14, 109);
